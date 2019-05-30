@@ -3,18 +3,18 @@
     {
         if($_POST['login']=="registro")
         {
-            if($_POST['tipo']=="competidor")
+            if($_POST['tipo']=="Participante")
             {
-                echo "competidor";
+                echo "Participante";
                 
             }
-            else if($_POST['tipo']=="box")
+            else if($_POST['tipo']=="Box")
             {
-                echo "box";
+                echo "Box";
             }
-            else if($_POST['tipo']=="juez")
+            else if($_POST['tipo']=="Juez")
             {
-                echo "juez";
+                echo "Juez";
             }
             else
             {

@@ -29,7 +29,7 @@
         {   
             if(move_uploaded_file($archivo_origen, $archivo_final))
             { 
-               echo "<h3>Foto subida con exito</h3>"; 
+               echo "<h3>Fotografia subida con exito</h3>"; 
             }
             else
             { 
@@ -38,7 +38,7 @@
         }
         else
         {
-            echo "no se pudo cargar la foto......";
+            echo "no se pudo cargar la fotografia......";
         }
     }
 ?>

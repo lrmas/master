@@ -21,8 +21,8 @@
                     </td>
                     <td>
                         <select name="genero">
-                            <option value="masculino">MASCULINO</option>
-                            <option value="femenino">FEMENINO</option>
+                            <option value="hombre">MASCULINO</option>
+                            <option value="mujer">FEMENINO</option>
                         </select>
                     </td>
                 </tr>
