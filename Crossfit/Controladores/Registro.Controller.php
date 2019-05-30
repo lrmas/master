@@ -29,7 +29,6 @@
         {   
             if(move_uploaded_file($archivo_origen, $archivo_final))
             { 
-               echo "<h3>Fotografia subida con exito</h3>"; 
             }
             else
             { 
