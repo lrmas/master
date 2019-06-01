@@ -1,0 +1,158 @@
+<style type="text/css" media="screen">
+    <!--
+        
+        body 
+        {
+            color: #2234FF;
+            font-family: Verdana, Geneva, sans-serif;
+            font-size: 14px;
+            margin: 10px;
+            
+        }
+        
+        .cuerpo
+        {
+            background:black;
+        }
+        
+        #backgroudn
+        {
+            position:absolute; 
+            z-index:10; 
+            width:95%; 
+            height:85%;
+        }
+        
+        p {
+        background:#638cb5;
+        color:white;
+        border:0px;
+        }
+        
+        .lista {
+        background:#638cb5;
+        color:white;
+        border:5px;
+        }
+        
+        label
+        {
+            color:blue;
+        }
+        .boton
+        {
+            font-size:12px;
+            font-family:Verdana,Helvetica;
+            font-weight:bold;
+            color:white;
+            background:#638cb5;
+            border:0px;
+            width:85px;
+            height:25px;
+        }
+        .link
+        {
+            margin-top:15px;
+            font-family:tahoma;
+            font-size:18px;
+            background-color:#639bb3;
+            width:160px;
+            padding-bottom:10px;
+            border-radius:20px 20px 20px 20px;
+            padding-left:20px;
+            padding-right: 20px;
+            box-shadow:5px 0px 10px #939393;
+            -webkit-transition:padding-left 0.6s;
+            color:white;
+        }
+        
+        .caja
+        {
+            font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+            color: #ffffff; 
+            text-align: center; 
+            margin:0 0 10px;
+        	overflow:hidden;
+        	padding:10px;
+        	-webkit-border-radius: 20px;
+            border-radius: 10px;
+            background-color:#889ccf;
+	        border: 1px solid #5878ca;
+        }
+        
+        .link:visited 
+        {
+            color:#D5EDFF;
+        }
+        
+        .link:hover 
+        {
+            padding-right:50px;
+        }
+        h1
+        {
+            color:#5E69B4;
+        }
+        h2
+        {
+            color:#3754FF;
+        }
+        h3
+        {
+            color:blue;
+        }
+        h4
+        {
+            color:#3396ff;
+        }
+        .divs
+        {
+            border: 1px solid #2234FF;
+        }
+        .celda
+        {
+            font-weight:bold;
+            color:white;
+            background:#638cb5;
+        }
+        table 
+        {     
+            font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+            margin: 45px;     width: 480px; text-align: left;    
+            border-collapse: collapse; 
+        }
+        
+        th 
+        {     
+             
+            padding: 8px;     
+            background: #b9c9fe;
+            border-top: 4px solid #aabcfe;    
+            border-bottom: 1px solid #fff; color: #039; 
+        }
+        
+        td 
+        {    
+            font-size:small;
+            padding: 8px;     
+            background: #e8edff;     
+            border-bottom: 1px solid #fff;
+            color: #669;    border-top: 1px solid transparent; 
+        }
+        
+        tr:hover td 
+        { 
+            background: #d0dafd; color: #339; 
+        }
+        img 
+        {
+                float: left;
+                margin: 15px;
+                -webkit-transition: margin 0.5s ease-out;
+                -moz-transition: margin 0.5s ease-out;
+                -ms-transition: margin 0.5s ease-out;
+                transition: margin 0.5s ease-out;
+        }
+         
+    -->
+</style>
