@@ -13,7 +13,7 @@
         </tr>
         <tr>
             <td>
-                <a href="?controller=Salir">Salir</a>
+                <a href="?controller=salir">salir</a>
             </td>
         </tr>
     </table>
@@ -22,7 +22,7 @@
             <table>
                 <tr>
                     <td>
-                        <label>Ejercicio</label>
+                        <label>ejercicio</label>
                     </td>
                     <td>
                         <input type="text" name="ejercio" required=""/>
@@ -30,7 +30,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <label>Repeticiones</label>
+                        <label>repeticiones</label>
                     </td>
                     <td>
                         <input type="text" name="repeticiones" required=""/>
