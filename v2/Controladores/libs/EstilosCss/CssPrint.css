@@ -1,0 +1,46 @@
+<style type="text/css" media="print">
+    <!--
+            @media print {
+				 @page 
+				 {
+				  margin: 0;
+				 }
+			    div,a {display:none}
+			    .ver {display:block}
+			    .nover {display:none}
+			}
+
+       
+            @page 
+            { 
+                margin: 0mm;
+                size: !important; 
+            }
+            
+            a
+            { 
+                display: none; 
+            }
+            
+            div
+            {
+                display: none;
+            }
+            
+            #navigation 
+			{
+		        display: none;
+		    }
+		    
+		    .content aside.sidebar 
+		    {
+		        display: none;
+		    }
+
+            td
+            {
+                color:black;
+                font-size: 13px;
+            }
+    -->
+</style>
